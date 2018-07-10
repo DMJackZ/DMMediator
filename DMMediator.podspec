@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "DMMediator"
-  s.version      = "1"
+  s.version      = "1.1.0"
   s.summary      = "DMMediator."
 
   # This description is used to generate tags and improve search results.
@@ -80,7 +80,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/DMJackZ/DMMediator.git", :tag => s.version.to_s }
+  s.source       = { :git => "https://github.com/DMJackZ/DMMediator.git", :tag => s.version }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
